@@ -10,7 +10,8 @@ This method  is based on finite difference expressions in time for velocity and 
 ![ken1](https://user-images.githubusercontent.com/89813720/141689208-b2962fa8-2550-4e33-b4db-e45be65b0fc4.png)
 
 Numerical integration:
-![image](https://user-images.githubusercontent.com/89813720/141689261-9668fbdd-f4fe-41df-a7bc-d58a65566c70.png)
+
+![ken9](https://user-images.githubusercontent.com/89813720/141689648-9d32c1a4-dcb4-4485-ad64-d99a5282df41.png)
 
 
 The procedure for solution is then as follows:

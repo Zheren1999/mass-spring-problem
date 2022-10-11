@@ -44,5 +44,14 @@ The procedure for a solution is then as follows:
 
 Use steps 5 through 7 repeatedly to obtain the displacement, acceleration, and velocity for all other time steps.
 
+# Numerical solution (Python)
+
+Enter the number of steps and the amplitute of force when ***t=0***
+
+![image](https://user-images.githubusercontent.com/89813720/195157366-fe86c97f-cff8-484d-b0af-6b6843ac2de4.png)
+
+Plot the displacement, velocity and acceleration:
+
+![image](https://user-images.githubusercontent.com/89813720/195157299-1d1a4f67-973e-4dec-8801-362c069b4255.png)
 
  
